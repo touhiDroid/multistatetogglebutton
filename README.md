@@ -8,7 +8,9 @@ A simple multi-state toggle button for Android.
 ![Example](img/example1.png)
 
 ## To-Do ##
-
+- Introduce array of weights for variable width buttons
+- Accept customization of the button-padding
+- Accept customization of the buttons' text-size
 - Support Material Design's button shadow.
 - Implement basic testing
 

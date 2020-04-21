@@ -11,6 +11,7 @@ A simple multi-state toggle button for Android.
 - Introduce array of weights for variable width buttons
 - Accept customization of the button-padding
 - Accept customization of the buttons' text-size
+- Accept variable to make button-corners rounded (4 corners)
 - Support Material Design's button shadow.
 - Implement basic testing
 
